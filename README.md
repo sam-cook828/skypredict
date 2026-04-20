@@ -1,12 +1,5 @@
 # Flight Delay Predictions
 
-**Team 1_1 — The Lazy Evaluators**  
-*UC Berkeley — Phase 3 Final Report*
-
-> **Team Members:** Archis Dhar · Andrew Saxe · Nithya Nalluri · Mario Blanco-Alcala · Sam Cook
-
----
-
 ## Overview
 
 Flight delays don't just inconvenience passengers — they cascade across entire airline networks, costing the U.S. aviation industry billions of dollars each year. This project builds a **two-stage machine learning pipeline** that predicts both *whether* a flight will be delayed and *how long* that delay will last, using only information available **2 hours before departure**.
